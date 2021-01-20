@@ -1,0 +1,22 @@
+The intrinsic parameters for all devices: 
+The internal intrinsic parameters: 
+fx  0   x_off
+0   fy  y_off
+0   0   1
+The internal distortion parameters: 
+Brown-Conrady: [k1, k2, p1, p2, k3], F-Theta Fish-eye: [k1, k2, k3, k4, 0], 
+
+The 1-th device: 
+Depth: 
+Internal paras: 
+   387.977         0   315.818
+         0   387.977   242.293
+         0         0         1
+Distortion model: Brown Conrady paras:          0          0          0          0          0 
+ 
+Color: 
+Internal paras: 
+    379.52         0    314.88
+         0   378.494   236.792
+         0         0         1
+Distortion model: Inverse Brown Conrady paras: -0.0539894  0.0680614 -3.32607e-05 -0.000213665 -0.0215684 
